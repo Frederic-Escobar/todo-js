@@ -1,7 +1,10 @@
-# Webpack Starter
+# App de tareas pendientes o completadas
 
-Este es el proyecto  inicial para crear aplicaciones utilizando webpack.
+En este proyecto inicial se crea utilizando webpack, CSS and JavaScrip.
 
+Creado para conocer el funcionamiento y manejo del DOM. Has been Minifier for start whitch 
+good practices.
+ 
 ### Notas:
 Recuerden construir los modulos de Node
 ```
